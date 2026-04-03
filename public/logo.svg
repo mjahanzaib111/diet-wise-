@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
+  <!-- Background Circle -->
+  <circle cx="200" cy="200" r="190" fill="#1a4028" />
+
+  <!-- Decorative Leaves & Elements (Top) -->
+  <path d="M 150 50 Q 170 30 180 60 Q 160 80 150 50" fill="#7bc043" />
+  <path d="M 220 40 Q 240 20 250 60 Q 220 80 220 40" fill="#ffffff" />
+  <path d="M 280 70 Q 320 50 300 110 Q 260 100 280 70" fill="#7bc043" />
+  <path d="M 100 90 Q 120 60 140 100 Q 110 120 100 90" fill="#ffffff" />
+  
+  <!-- Apple (Left) -->
+  <path d="M 60 150 C 60 120 100 120 100 150 C 100 180 60 180 60 150" fill="#7bc043" />
+  <path d="M 80 125 Q 90 110 100 125" fill="none" stroke="#7bc043" stroke-width="3" />
+  
+  <!-- Pear (Right) -->
+  <path d="M 320 130 C 340 130 350 160 350 180 C 350 200 320 200 310 180 C 300 160 310 130 320 130" fill="#ffffff" />
+  <circle cx="330" cy="170" r="5" fill="#1a4028" />
+  <path d="M 325 110 Q 330 100 335 115" fill="none" stroke="#ffffff" stroke-width="3" />
+
+  <!-- Center White Pill -->
+  <rect x="40" y="160" width="320" height="80" rx="40" fill="#ffffff" />
+  
+  <!-- DIETWISE Text -->
+  <text x="200" y="215" font-family="Georgia, serif" font-size="48" font-weight="bold" fill="#1a4028" text-anchor="middle" letter-spacing="2">DIETWISE</text>
+  
+  <!-- HEALTHY YOU Text -->
+  <text x="200" y="275" font-family="Georgia, serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="1">HEALTHY YOU</text>
+
+  <!-- Decorative Elements (Bottom) -->
+  <!-- White Apple -->
+  <path d="M 80 290 C 70 270 110 270 120 290 C 130 320 70 320 80 290" fill="#ffffff" />
+  <path d="M 95 270 Q 105 255 115 270" fill="none" stroke="#ffffff" stroke-width="3" />
+
+  <!-- Flower -->
+  <circle cx="190" cy="320" r="25" fill="#ffffff" />
+  <circle cx="190" cy="320" r="10" fill="#1a4028" />
+  <circle cx="185" cy="315" r="2" fill="#7bc043" />
+  <circle cx="195" cy="315" r="2" fill="#7bc043" />
+  <circle cx="185" cy="325" r="2" fill="#7bc043" />
+  <circle cx="195" cy="325" r="2" fill="#7bc043" />
+
+  <!-- Lime Slice -->
+  <path d="M 230 290 A 40 40 0 0 1 300 320 Z" fill="#e8d974" stroke="#ffffff" stroke-width="3" />
+  <path d="M 265 305 L 245 295 M 265 305 L 285 295 M 265 305 L 265 320" stroke="#ffffff" stroke-width="2" />
+
+  <!-- Bottom Leaves -->
+  <path d="M 120 340 Q 140 320 150 350 Q 130 370 120 340" fill="#7bc043" />
+  <path d="M 280 350 Q 300 330 320 360 Q 290 380 280 350" fill="#ffffff" />
+  <path d="M 210 360 Q 230 340 240 370 Q 220 390 210 360" fill="#7bc043" />
+
+  <!-- Sparkles -->
+  <polygon points="280,130 285,140 295,145 285,150 280,160 275,150 265,145 275,140" fill="#e8d974" />
+  <polygon points="100,250 103,255 108,258 103,261 100,266 97,261 92,258 97,255" fill="#e8d974" />
+  <polygon points="290,260 293,265 298,268 293,271 290,276 287,271 282,268 287,265" fill="#e8d974" />
+</svg>
